@@ -1,0 +1,4 @@
+telethon==1.42.0
+firebase-admin==6.9.0
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
